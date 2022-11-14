@@ -1,4 +1,4 @@
-# YouTube link for online shopping website demo
+# YouTube Link for Online Shopping Website Demo
 
 Here is a video demo about my online shopping website project :D
 
